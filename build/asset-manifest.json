@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b75c3fd3.css",
+    "main.js": "/static/js/main.07046b14.js",
+    "static/media/Desktop.webp": "/static/media/Desktop.52897174436c0ce6ec50.webp",
+    "static/media/avatar.avif": "/static/media/avatar.3eddac61a78f798b4553.avif",
+    "static/media/setting.svg": "/static/media/setting.e9d796f5e1e19554088a93e8a2ca477e.svg",
+    "static/media/new-group.svg": "/static/media/new-group.a4396c7c46056f9e20cadfa06577023e.svg",
+    "static/media/People Neardby.svg": "/static/media/People Neardby.12b18b3e06d1569923d2437cffe0e6ca.svg",
+    "static/media/features.svg": "/static/media/features.e144da2608b83a579dda43489f08f36f.svg",
+    "static/media/invite.svg": "/static/media/invite.becdc3dd05adfdd722fce86c91168acd.svg",
+    "static/media/my-profile.svg": "/static/media/my-profile.ac9704a76b0928937151bce63c5cfbc9.svg",
+    "index.html": "/index.html",
+    "static/media/saved-msg.svg": "/static/media/saved-msg.f4d7f0bb51cd63bc898c536f48b1d4f6.svg",
+    "main.b75c3fd3.css.map": "/static/css/main.b75c3fd3.css.map",
+    "main.07046b14.js.map": "/static/js/main.07046b14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b75c3fd3.css",
+    "static/js/main.07046b14.js"
+  ]
+}
